@@ -1,0 +1,9 @@
+.home-cover {
+  display: block;
+  margin: auto;
+  max-width: 100%;
+}
+
+.custom-header th {
+  color: #FF0000; 
+}
